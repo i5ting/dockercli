@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "i5start": "./start.sh",
-    "i5remove": "./remove.sh",
-    "i5stop": "./stop.sh"
+    "dockerstart": "./start.sh",
+    "dockerremove": "./remove.sh",
+    "dockerstop": "./stop.sh"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
